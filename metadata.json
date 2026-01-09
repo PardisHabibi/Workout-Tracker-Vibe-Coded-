@@ -1,0 +1,5 @@
+{
+  "name": "Workout Tracker (AI)",
+  "description": "A smart workout tracker that allows users to log exercises, sets, weights, and reps, featuring an AI coach for real-time workout analysis and motivation.",
+  "requestFramePermissions": []
+}
